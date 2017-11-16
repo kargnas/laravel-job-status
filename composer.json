@@ -1,11 +1,14 @@
 {
-    "name": "imtigger/laravel-job-status",
+    "name": "kargnas/laravel-job-status",
     "description": "Laravel Job Status",
     "license": "MIT",
     "authors": [
         {
             "name": "Tiger",
             "email": "tiger@tiger-workshop.com"
+        },{
+            "name": "Sangrak Choi",
+            "email": "kars@kargn.as"
         }
     ],
     "keywords": [
